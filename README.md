@@ -40,10 +40,9 @@ Cine-Match-main/
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/apraneeth20/Cine_Match_NLP.git
+git clone https://github.com/mehul-gupta24/Movie_Recommendation.git
 cd Cine_Match_NLP
 ```
-
 ### 2. Backend Setup
 ```sh
 cd backend
@@ -107,7 +106,7 @@ npm run dev
 ---
 
 ## Authors
-- Attunuri Praneeth Reddy
+- Mehul Gupta
 
 
 
